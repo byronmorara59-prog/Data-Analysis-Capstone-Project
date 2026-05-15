@@ -11,17 +11,25 @@ The internet has become one of the most important tools for education, economic 
 
 ## 3. Proposed Features
 i) Data integration
+
 ii) Global trend analysis 
-iii) Digital divide mapping 
+
+iii) Digital divide mapping
+
 iv) Mobile vs fixed broadband analysis
+
 v) Kenya and East Africa spotlight
 
 
 ## 4. Tools and Concepts
 i) Pandas
+
 ii) NumPy
+
 iii) Matplotlib & Seaborn
+
 iv) GeoPandas
+
 v) plotly
 
 
@@ -31,6 +39,9 @@ Our World in Data
 
 ## 6. Research Questions
 i) How has internet access grown globally over 30 years, which regions have consistently been left behind?
-ii) Did the mobile phone revolution genuinely bridge the digital divide in developing countries, or did it create a new kind of gap?
-iii) Which countries made the fastest progress in internet adoption over the last two decades, and what can countries still growing slowly learn from them?
+
+ii) Which region has the highest innternet penetration?
+
+iii) Did the Mobile Phones bridge the gap?
+
 iv) Where does Kenya stand in the global digital divide? How does it compare to its East African neighbours?
